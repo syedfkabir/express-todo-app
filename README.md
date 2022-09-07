@@ -7,7 +7,7 @@ https://mijokristo.com/simple-todo-app-with-node-js-and-express/
 I only made slighy changes to the styling and some other 'bugs' I found.
 
 
-### Key Takeaways
+## Key Takeaways
 - learned how to center a div (again)
 - ejs templating techniques 
   - for looping through arrays sent through ejs
