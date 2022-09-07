@@ -1,8 +1,10 @@
 # express-todo-app
 
 ## How the App looks on Startup
+<p align="center">
+  ![Screen Shot 2022-09-07 at 12 13 13 PM](https://user-images.githubusercontent.com/31973147/188928479-6a72d5d0-65f9-46d7-8522-ad670e49a5aa.png)
+</p>
 
-![Screen Shot 2022-09-07 at 12 13 13 PM](https://user-images.githubusercontent.com/31973147/188928479-6a72d5d0-65f9-46d7-8522-ad670e49a5aa.png)
 
 ## Attempting to Add a task
 
