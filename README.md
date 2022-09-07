@@ -1,4 +1,16 @@
-# express-todo-app
+# todo-app
+
+## Introduction 
+I wanted to create a simple app to learn some key Express concepts. 
+I followed this tutorial: https://mijokristo.com/simple-todo-app-with-node-js-and-express/.
+I only made slighy changes to the styling and some other 'bugs' I found.
+
+### Key Takeaways
+- learned how to center a div (again)
+- ejs templating techniques 
+  - for looping through arrays sent through ejs
+  - linking form actions to endpoints
+
 
 ## How the App looks on Startup
 
@@ -15,7 +27,7 @@
 </p>
 
 
-### After adding a few more tasks
+## After adding a few more tasks
 <p align="center">
   <img src="https://user-images.githubusercontent.com/31973147/188928781-15caa4e7-ca84-46f2-9d1a-51a784eb96e6.png">
 </p>
