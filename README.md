@@ -9,11 +9,11 @@
 
 ## Attempting to Add a task
 
-
 <p align="center">
-  ![Screen Shot 2022-09-07 at 12 13 31 PM](https://user-images.githubusercontent.com/31973147/188928631-903892fc-9a2e-4f2d-ad79-2a1a784541d6.png)
-  ![Screen Shot 2022-09-07 at 12 13 40 PM](https://user-images.githubusercontent.com/31973147/188928741-00eb2248-681f-4afc-8cae-6db9d7711291.png)
+  <img src="https://user-images.githubusercontent.com/31973147/188928631-903892fc-9a2e-4f2d-ad79-2a1a784541d6.png">
+  <img src="https://user-images.githubusercontent.com/31973147/188928741-00eb2248-681f-4afc-8cae-6db9d7711291.png">
 </p>
+
 
 ### After adding a few more tasks
 ![Screen Shot 2022-09-07 at 12 14 15 PM](https://user-images.githubusercontent.com/31973147/188928781-15caa4e7-ca84-46f2-9d1a-51a784eb96e6.png)
