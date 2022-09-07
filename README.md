@@ -3,7 +3,7 @@
 ## How the App looks on Startup
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/31973147/188928479-6a72d5d0-65f9-46d7-8522-ad670e49a5aa.png">
+  <img src="https://user-images.githubusercontent.com/31973147/188928479-6a72d5d0-65f9-46d7-8522-ad670e49a5aa.png">
 </p>
 
 
