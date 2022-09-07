@@ -6,6 +6,7 @@ I followed this tutorial:
 https://mijokristo.com/simple-todo-app-with-node-js-and-express/
 I only made slighy changes to the styling and some other 'bugs' I found.
 
+
 ### Key Takeaways
 - learned how to center a div (again)
 - ejs templating techniques 
