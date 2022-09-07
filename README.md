@@ -27,6 +27,6 @@
 
 ## Deleting multiple tasks at once
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/31973147/188928924-ba7ffcc1-373f-4288-b86f-05d787340a5b.png">
+  <img src="https://user-images.githubusercontent.com/31973147/188934111-003c4132-67e9-445c-a91c-93ff7e6a9e59.png">
   <img src="https://user-images.githubusercontent.com/31973147/188928924-ba7ffcc1-373f-4288-b86f-05d787340a5b.png">
 </p>
