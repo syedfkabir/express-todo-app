@@ -1,0 +1,40 @@
+* {
+    font-family: "lato", sans-serif;
+    font-weight: bold;
+}
+
+body {
+    background: rgb(0, 0, 0);
+    color: #fffbfb;
+    margin-top: 20px;
+}
+
+.container {
+    max-width: 500px;
+    margin: auto;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+.content {
+    max-width: 500px;
+    margin: auto;
+  }
+
+  html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
