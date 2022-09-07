@@ -7,7 +7,6 @@
 ## Attempting to Add a task
 
 ![Screen Shot 2022-09-07 at 12 13 31 PM](https://user-images.githubusercontent.com/31973147/188928631-903892fc-9a2e-4f2d-ad79-2a1a784541d6.png)
-
 ![Screen Shot 2022-09-07 at 12 13 40 PM](https://user-images.githubusercontent.com/31973147/188928741-00eb2248-681f-4afc-8cae-6db9d7711291.png)
 
 ### After adding a few more tasks
