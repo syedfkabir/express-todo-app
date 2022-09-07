@@ -2,7 +2,8 @@
 
 ## Introduction 
 I wanted to create a simple app to learn some key Express concepts. 
-I followed this tutorial: [link] (https://mijokristo.com/simple-todo-app-with-node-js-and-express/)
+I followed this tutorial: 
+https://mijokristo.com/simple-todo-app-with-node-js-and-express/
 I only made slighy changes to the styling and some other 'bugs' I found.
 
 ### Key Takeaways
